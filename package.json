@@ -4,7 +4,7 @@
   "description": "An api that to check whether a string contains unix timestamp or natural and return both if it does or null if it doesn't",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
