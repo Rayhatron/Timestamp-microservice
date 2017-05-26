@@ -1,0 +1,22 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "An api that to check whether a string contains unix timestamp or natural and return both if it does or null if it doesn't",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rayhatron/Timestamp-microservice.git"
+  },
+  "author": "Rayhatron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rayhatron/Timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/Rayhatron/Timestamp-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
